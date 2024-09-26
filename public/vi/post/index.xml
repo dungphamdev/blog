@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dung Pham</title>
+    <link>//localhost:1313/vi/post/</link>
+    <description>Recent content in Posts on Dung Pham</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <managingEditor>dungphamdev@gmail.com (Dung Pham)</managingEditor>
+    <webMaster>dungphamdev@gmail.com (Dung Pham)</webMaster>
+    <copyright>Dung Pham</copyright>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/vi/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài viết đầu tiên</title>
+      <link>//localhost:1313/vi/post/first-post/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate><author>dungphamdev@gmail.com (Dung Pham)</author>
+      <guid>//localhost:1313/vi/post/first-post/</guid>
+      <description>&lt;p&gt;Test bài viết đầu tiên&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

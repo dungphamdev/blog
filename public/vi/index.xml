@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dung Pham</title>
+    <link>//localhost:1313/vi/</link>
+    <description>Recent content on Dung Pham</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <managingEditor>dungphamdev@gmail.com (Dung Pham)</managingEditor>
+    <webMaster>dungphamdev@gmail.com (Dung Pham)</webMaster>
+    <copyright>Dung Pham</copyright>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/vi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài viết đầu tiên</title>
+      <link>//localhost:1313/vi/post/first-post/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate><author>dungphamdev@gmail.com (Dung Pham)</author>
+      <guid>//localhost:1313/vi/post/first-post/</guid>
+      <description>&lt;p&gt;Test bài viết đầu tiên&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/vi/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dungphamdev@gmail.com (Dung Pham)</author>
+      <guid>//localhost:1313/vi/about/</guid>
+      <description>&lt;p&gt;Hi, mình là Dũng. Blog này là nơi mình review lại kiến thức, kinh nghiệm của bản thân và chia sẻ với cộng đồng những gì mà mình biết. Các bài viết sẽ tập trung vào backend (.NET vì mình kiếm cơm bằng nó), database, system design,&amp;hellip; và sẽ cố gắng đào sâu hết mức có thể với kiến thức mình có chứ không chỉ dừng lại ở dạng tutorial mì ăn liền - vì đó là những thứ mình thực sự muốn viết.&#xA;Tuy blog support cả 2 ngôn ngữ tiếng Anh và tiếng Việt nhưng khi viết có những từ tiếng anh mình sẽ giữ nguyên mà không dịch nó sang tiếng Việt, vì nếu dịch thì nó sẽ rất &amp;hellip; chuối (theo cảm giác của mình), hi vọng các bạn không bị khó chịu vì điều đó.&#xA;Enjoy reading :)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
